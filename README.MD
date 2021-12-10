@@ -72,3 +72,32 @@
 | ------ | --------- | -------------- |
 | Carlos | Vasquez   | 23489384949384 |
 | Gladys | Reyes     | 23889493898498 |
+
+# Citas
+
+Estos es un texto referente a una cita:
+
+> Estos es una cita
+
+Esto otro texto
+
+> Estos es otra cita
+> de prueba
+
+# Lineas divisoras sin titulos
+
+Estos es un texto que sera dividido
+
+---
+
+Estos es otro texto
+
+---
+
+Texto divido por asteriscos los asterisco los convierte a guion
+
+# Saltos de lineas
+
+Estos es nuestro primer parafo.
+
+Estos es otro parrafo.
